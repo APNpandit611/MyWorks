@@ -1,3 +1,4 @@
+/* This code is written by Humanath Dumre AKA Ankit Dumre */
 #include<fstream>
 #include<conio.h>
 #include<string.h>
